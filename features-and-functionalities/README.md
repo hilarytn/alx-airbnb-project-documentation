@@ -79,6 +79,4 @@ This document outlines the core **features and functionalities** supported by th
 
 ## 📄 Visual Summary
 
-The feature map has been documented and exported as a PNG from Draw.io.
-
-**File Location:**
+![Features and functionalities](./features-and-functionalities.png)
