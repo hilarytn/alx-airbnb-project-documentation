@@ -33,7 +33,3 @@ To illustrate how different types of users (Guests, Hosts, Admins) interact with
 
 ![Use Case Diagram](./use-case-diagram.png)
 
-> Created with [draw.io](https://draw.io)
-
-## 📁 File Structure
-
